@@ -14,7 +14,7 @@
 
 ## Prerequisites
 ### Current Device support
-`Raspberry Pi 3, Raspberry Pi 2, Raspberry Pi zero`
+`Raspberry Pi 3, Raspberry Pi zero w`
 
 ### Lock Use
 [Atovi Lock](https://atovi.vn)
